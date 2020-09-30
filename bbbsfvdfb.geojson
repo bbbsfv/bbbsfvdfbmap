@@ -524,23 +524,6 @@
           49.07867302932616
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Phone": "999-999-9999",
-        "City": "Ab",
-        "Deal": "Big and Little get free trip to Maui",
-        "Category": "Self-Care",
-        "Name": "Abbotsford Airport"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.38008856773375,
-          49.02308154835195
-        ]
-      }
     }
   ]
 }
