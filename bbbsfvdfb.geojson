@@ -255,8 +255,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        "marker-size": "",
         "marker-symbol": "",
         "Address": "215 Kilby Rd. ",
         "City": "Ha",
@@ -281,7 +281,8 @@
         "Name": "Chilliwack Corn Maze",
         "Category": "Recreation",
         "Deal": "Big pays, little gets in free",
-        "Phone": 6048457771
+        "Phone": 6048457771,
+        "marker-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -521,6 +522,23 @@
         "coordinates": [
           -122.31765747070314,
           49.07867302932616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Phone": "999-999-9999",
+        "City": "Ab",
+        "Deal": "Big and Little get free trip to Maui",
+        "Category": "Self-Care",
+        "Name": "Abbotsford Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38008856773375,
+          49.02308154835195
         ]
       }
     }
